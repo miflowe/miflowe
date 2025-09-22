@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/yasir-shahzad/yasir-shahzad/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/yasir-shahzad/yasir-shahzad/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/miflowe/miflowe/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/miflowe/miflowe/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--
 **miflowe/miflowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
