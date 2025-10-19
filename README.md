@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Minna (pronounced “MIN-ah”) and I'm a computer engineering student in Toronto!
+Check out my projects below (and my website too for some of my designs!!)
+https://mina-adnan.webflow.io/
+
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/miflowe/miflowe/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/miflowe/miflowe/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
