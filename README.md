@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 My name is Minna (pronounced “MIN-ah”) and I'm a computer engineering student in Toronto!
+
 Check out my projects below (and my website too for some of my designs!!)
 https://mina-adnan.webflow.io/
 
